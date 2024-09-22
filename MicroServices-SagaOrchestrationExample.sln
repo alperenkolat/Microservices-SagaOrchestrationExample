@@ -1,7 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroServices-SagaOrchestrationExample", "MicroServices-SagaOrchestrationExample\MicroServices-SagaOrchestrationExample.csproj", "{1BB2FD9F-A89D-47BE-8135-28471A06E63E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Order.API", "Order.API\Order.API.csproj", "{62509757-9D0A-41CC-949D-C65DBD50861E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stock.API", "Stock.API\Stock.API.csproj", "{0FD66A2B-943D-4B9B-B6FB-68C876450408}"
@@ -18,10 +16,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1BB2FD9F-A89D-47BE-8135-28471A06E63E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1BB2FD9F-A89D-47BE-8135-28471A06E63E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1BB2FD9F-A89D-47BE-8135-28471A06E63E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1BB2FD9F-A89D-47BE-8135-28471A06E63E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{62509757-9D0A-41CC-949D-C65DBD50861E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{62509757-9D0A-41CC-949D-C65DBD50861E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62509757-9D0A-41CC-949D-C65DBD50861E}.Release|Any CPU.ActiveCfg = Release|Any CPU
