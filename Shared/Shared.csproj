@@ -10,9 +10,4 @@
       <PackageReference Include="MassTransit.RabbitMQ" Version="8.0.0" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="PaymentEvents\" />
-      <Folder Include="StockEvents\" />
-    </ItemGroup>
-
 </Project>
